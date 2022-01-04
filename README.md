@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Sayed Tabish
 
-![giphy](https://user-images.githubusercontent.com/93794214/148046685-ac708360-54ac-4f06-ad61-86771c2b897e.gif)
+![giphy (1)](https://user-images.githubusercontent.com/93794214/148047049-f5de1c15-e23d-4248-a3a5-d753cdd0e847.gif)
 
 #### I am Software Engineer at 🎯 || Freelancer || Android & Web Developer || Java Developer👨🏻‍💻 || Coding Enthusiast || Hustler 📚|| ( "IPEC" )
+![giphy](https://user-images.githubusercontent.com/93794214/148046685-ac708360-54ac-4f06-ad61-86771c2b897e.gif)
 Experienced Freelance Web Developer with a demonstrated history of working in the internet industry. Strong engineering professional with a Bachelor of Technology - BTech focused in Information Technology from Dr. A.P.J. Abdul Kalam Technical University ( IPEC, Ghaziabad Uttar Pradesh )
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SayedTabish72)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayed-tabish//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/sayedtabish72)  
