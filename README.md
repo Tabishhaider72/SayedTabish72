@@ -1,16 +1,21 @@
-### Hi there 👋, my name is Sayed Tabish
+### Hi there 🙋‍♂️, my name is Sayed Tabish💥
 #### I am Software Engineer at 🎯 || Freelancer || Android & Web Developer || Java Developer👨🏻‍💻 || Coding Enthusiast || Hustler 📚|| ( "IPEC" ) 
+I'm Experienced Freelance Web Developer with a demonstrated history of working in the internet industry. Strong engineering professional with a Bachelor of Technology - BTech focused in Information Technology from Dr. A.P.J. Abdul Kalam Technical University ( IPEC, Ghaziabad Uttar Pradesh )
+
 ![giphy](https://user-images.githubusercontent.com/93794214/148046685-ac708360-54ac-4f06-ad61-86771c2b897e.gif)
 
-Experienced Freelance Web Developer with a demonstrated history of working in the internet industry. Strong engineering professional with a Bachelor of Technology - BTech focused in Information Technology from Dr. A.P.J. Abdul Kalam Technical University ( IPEC, Ghaziabad Uttar Pradesh )
+💡 Every since I was a kid, I love to make something new and innovative in high school. I was introduced to programming and I build a E-Commerce jewelry Site for my subject Teacher with all the basic knowledge I had. my passion for building a new thing and automating my task lead me to my current degree in college. I explode my varied interest and challenge myself to do things which I never imagined.
+
+👨‍💻And I am interested to work in a domain at the intersection of technology and management. It will give me a stage to apply my knowledge. building innovative product and put my leadership skill to use.
+
+**👇Find me here:👇**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SayedTabish72)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayed-tabish//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/sayedtabish72)  
-
-
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' 
 height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 <img src="https://github-readme-stats.vercel.app/api?username=SayedTabish72&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
